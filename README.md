@@ -12,3 +12,4 @@ This project is a simple React application that demonstrates how to use GPT-3 AP
 - Integration with GPT-3 API
 - Real-time text generation
 - Responsive design
+
